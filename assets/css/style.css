@@ -589,7 +589,7 @@ section {
 }
 
 .portfolio .portfolio-wrap .portfolio-links a + a {
-  border-left: 1px solid #37b3ed;
+  border-left: 1px solid #372554;
 }
 
 .portfolio .portfolio-wrap:hover::before {
@@ -863,7 +863,7 @@ section {
   padding: 0 0 10px 60px;
   margin-bottom: 20px;
   font-size: 14px;
-  color: #173b6c;
+  color: #372554;
 }
 
 .contact .info .email p {
@@ -995,7 +995,7 @@ section {
 }
 
 .contact .php-email-form button[type="submit"]:hover {
-  background: #37b3ed;
+  background: #453750;
 }
 
 @-webkit-keyframes animate-loading {
